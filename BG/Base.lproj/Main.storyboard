@@ -38,16 +38,23 @@
                     <view key="view" contentMode="scaleToFill" id="qL8-G5-GXd">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Play.png" translatesAutoresizingMaskIntoConstraints="NO" id="2tk-S9-HP5">
+                                <rect key="frame" x="0.0" y="36" width="375" height="595"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                        </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <viewLayoutGuide key="safeArea" id="0UI-oG-Jhp"/>
                     </view>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="EZa-Sq-YEZ" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1079" y="92"/>
+            <point key="canvasLocation" x="1177" y="-16"/>
         </scene>
     </scenes>
     <resources>
         <image name="Main.png" width="308" height="485"/>
+        <image name="Play.png" width="318" height="478"/>
     </resources>
 </document>
