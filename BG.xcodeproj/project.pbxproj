@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3F6B4B7720E390E1009BA365 /* Снимок экрана 2018-06-27 в 12.30.50.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F6B4B7620E390E1009BA365 /* Снимок экрана 2018-06-27 в 12.30.50.png */; };
 		3FB26D5420E382760041C048 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FB26D5320E382760041C048 /* AppDelegate.swift */; };
 		3FB26D5620E382760041C048 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FB26D5520E382760041C048 /* ViewController.swift */; };
 		3FB26D5920E382760041C048 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3FB26D5720E382760041C048 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3F6B4B7620E390E1009BA365 /* Снимок экрана 2018-06-27 в 12.30.50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Снимок экрана 2018-06-27 в 12.30.50.png"; sourceTree = "<group>"; };
 		3FB26D5020E382760041C048 /* BG.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BG.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3FB26D5320E382760041C048 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3FB26D5520E382760041C048 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -35,11 +37,20 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		3F6B4B7120E38E57009BA365 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				3F6B4B7620E390E1009BA365 /* Снимок экрана 2018-06-27 в 12.30.50.png */,
+			);
+			path = Images;
+			sourceTree = "<group>";
+		};
 		3FB26D4720E382760041C048 = {
 			isa = PBXGroup;
 			children = (
 				3FB26D5220E382760041C048 /* BG */,
 				3FB26D5120E382760041C048 /* Products */,
+				3F6B4B7120E38E57009BA365 /* Images */,
 			);
 			sourceTree = "<group>";
 		};
@@ -123,6 +134,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3FB26D5E20E3827A0041C048 /* LaunchScreen.storyboard in Resources */,
+				3F6B4B7720E390E1009BA365 /* Снимок экрана 2018-06-27 в 12.30.50.png in Resources */,
 				3FB26D5B20E3827A0041C048 /* Assets.xcassets in Resources */,
 				3FB26D5920E382760041C048 /* Main.storyboard in Resources */,
 			);
