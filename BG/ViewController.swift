@@ -8,6 +8,8 @@
 
 import UIKit
 
+// Это добавлено в 13:27
+
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
