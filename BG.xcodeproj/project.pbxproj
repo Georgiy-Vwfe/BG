@@ -7,17 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		3F6B4B7720E390E1009BA365 /* Снимок экрана 2018-06-27 в 12.30.50.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F6B4B7620E390E1009BA365 /* Снимок экрана 2018-06-27 в 12.30.50.png */; };
 		3FB26D5420E382760041C048 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FB26D5320E382760041C048 /* AppDelegate.swift */; };
 		3FB26D5620E382760041C048 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FB26D5520E382760041C048 /* ViewController.swift */; };
 		3FB26D5920E382760041C048 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3FB26D5720E382760041C048 /* Main.storyboard */; };
 		3FB26D5B20E3827A0041C048 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3FB26D5A20E3827A0041C048 /* Assets.xcassets */; };
 		3FB26D5E20E3827A0041C048 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3FB26D5C20E3827A0041C048 /* LaunchScreen.storyboard */; };
-		3FB26D6A20E39B2C0041C048 /* img in Resources */ = {isa = PBXBuildFile; fileRef = 3FB26D6920E39B2C0041C048 /* img */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		3F6B4B7620E390E1009BA365 /* Снимок экрана 2018-06-27 в 12.30.50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Снимок экрана 2018-06-27 в 12.30.50.png"; sourceTree = "<group>"; };
 		3FB26D5020E382760041C048 /* BG.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BG.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3FB26D5320E382760041C048 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3FB26D5520E382760041C048 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -25,7 +22,8 @@
 		3FB26D5A20E3827A0041C048 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3FB26D5D20E3827A0041C048 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3FB26D5F20E3827A0041C048 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		3FB26D6920E39B2C0041C048 /* img */ = {isa = PBXFileReference; lastKnownFileType = folder; path = img; sourceTree = "<group>"; };
+		3FB26D6B20E39F430041C048 /* Main.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Main.png; sourceTree = "<group>"; };
+		3FB26D6C20E39F440041C048 /* Play.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Play.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,7 +40,8 @@
 		3F6B4B7120E38E57009BA365 /* Images */ = {
 			isa = PBXGroup;
 			children = (
-				3F6B4B7620E390E1009BA365 /* Снимок экрана 2018-06-27 в 12.30.50.png */,
+				3FB26D6B20E39F430041C048 /* Main.png */,
+				3FB26D6C20E39F440041C048 /* Play.png */,
 			);
 			path = Images;
 			sourceTree = "<group>";
@@ -73,7 +72,6 @@
 				3FB26D5A20E3827A0041C048 /* Assets.xcassets */,
 				3FB26D5C20E3827A0041C048 /* LaunchScreen.storyboard */,
 				3FB26D5F20E3827A0041C048 /* Info.plist */,
-				3FB26D6920E39B2C0041C048 /* img */,
 			);
 			path = BG;
 			sourceTree = "<group>";
@@ -136,9 +134,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3FB26D6A20E39B2C0041C048 /* img in Resources */,
 				3FB26D5E20E3827A0041C048 /* LaunchScreen.storyboard in Resources */,
-				3F6B4B7720E390E1009BA365 /* Снимок экрана 2018-06-27 в 12.30.50.png in Resources */,
 				3FB26D5B20E3827A0041C048 /* Assets.xcassets in Resources */,
 				3FB26D5920E382760041C048 /* Main.storyboard in Resources */,
 			);
