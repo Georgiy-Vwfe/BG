@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3F31231220E3C0E200D8A43D /* Snimok_Ekrana_2018-06-27_V_15_48_07.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F31231120E3C0E200D8A43D /* Snimok_Ekrana_2018-06-27_V_15_48_07.png */; };
 		3FB26D5420E382760041C048 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FB26D5320E382760041C048 /* AppDelegate.swift */; };
 		3FB26D5620E382760041C048 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FB26D5520E382760041C048 /* ViewController.swift */; };
 		3FB26D5920E382760041C048 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3FB26D5720E382760041C048 /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3F31231120E3C0E200D8A43D /* Snimok_Ekrana_2018-06-27_V_15_48_07.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Snimok_Ekrana_2018-06-27_V_15_48_07.png"; path = "../../../Downloads/Snimok_Ekrana_2018-06-27_V_15_48_07.png"; sourceTree = "<group>"; };
 		3FB26D5020E382760041C048 /* BG.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BG.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3FB26D5320E382760041C048 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3FB26D5520E382760041C048 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -45,6 +47,7 @@
 				3FB26D6B20E39F430041C048 /* Main.png */,
 				3FB26D6C20E39F440041C048 /* Play.png */,
 				3FB2AC0C20E3A4CA00912C3B /* Снимок экрана 2018-06-27 в 13.55.20.png */,
+				3F31231120E3C0E200D8A43D /* Snimok_Ekrana_2018-06-27_V_15_48_07.png */,
 			);
 			path = Images;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			files = (
 				3FB26D5E20E3827A0041C048 /* LaunchScreen.storyboard in Resources */,
 				3FB26D5B20E3827A0041C048 /* Assets.xcassets in Resources */,
+				3F31231220E3C0E200D8A43D /* Snimok_Ekrana_2018-06-27_V_15_48_07.png in Resources */,
 				3FB2AC0D20E3A4CA00912C3B /* Снимок экрана 2018-06-27 в 13.55.20.png in Resources */,
 				3FB26D5920E382760041C048 /* Main.storyboard in Resources */,
 			);
